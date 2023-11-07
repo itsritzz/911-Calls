@@ -37,7 +37,7 @@ The heatmap and clustermap provide a visual representation of how calls are dist
 The EDA of 911 call data has provided valuable insights into emergency call patterns. The findings can be useful for resource allocation and optimizing emergency response services.
 
 ## Author
-- [Ritesh Kumar Singh]
-- [singh.rites@northeastern.edu]
+- Ritesh Kumar Singh
+- singh.rites@northeastern.edu
 
 Feel free to explore the Jupyter Notebook for detailed code and visualizations.
